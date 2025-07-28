@@ -4,7 +4,7 @@
 
 ## Dual Analysis Capabilities
 
-### 🔬 **Advanced Materials Analyzer** (`fixed_iv_analyzer.py`)
+### **Advanced Materials Analyzer** (`fixed_iv_analyzer.py`)
 **For metals, conductors, and temperature-dependent studies**
 
 - **Temperature-dependent conductivity** measurements with statistical validation
@@ -12,7 +12,7 @@
 - **Publication-quality reports** with R-squared validation and p-value significance
 - **Batch processing** for multiple temperature ranges with automated file handling
 
-### ⚡ **Semiconductor Device Characterizer** (`iv_semiconductor_plotly.py`)
+### **Semiconductor Device Characterizer** (`iv_semiconductor_plotly.py`)
 **For diodes, transistors, and exponential I-V behavior**
 
 - **Exponential parameter extraction**: Automatically calculates `I = I₀ × exp(slope × V)`
